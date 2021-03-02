@@ -1,0 +1,8 @@
+slide rappresentazione delle informazioni:
+	https://465fda9c-1532-474b-8584-c5460514076b.filesusr.com/ugd/6321f9_d7a89eccf1c542708253cc6a103c3037.pdf
+
+board miro:
+	https://miro.com/welcome/NiwRXsoJGHmPTXiEjx78v1F0GQzRh1mk6pDoWFFS70l0nIaKiox5eGCQSN83A58b
+
+dispense algoritmi e strutture dati (da vedere giusto due capitoli più avanti, non ci perdere tempo per ora):
+	http://people.disim.univaq.it/guido.proietti/lezioni_algo2020.html
