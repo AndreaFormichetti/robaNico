@@ -21,3 +21,4 @@ console.log("nome:", persona.nome);
 console.log("cose varie:", persona["cose varie"]);
 console.log("main:", persona["cose varie"].nome);
 console.log("un gioco:", persona.giochi[1]);
+
