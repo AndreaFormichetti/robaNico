@@ -14,11 +14,10 @@ let persona = {
 }
 
 console.log("Nico:", persona);
-console.log("Nico stringa", JSON.stringify(persona));
+console.log("Nico stringa", JSON.stringify(persona.giochi));
 
 //accesso ai dati
 console.log("nome:", persona.nome);
 console.log("cose varie:", persona["cose varie"]);
-console.log("main:", persona["cose varie"].nome);
+console.log("main:", persona["cose varie"].main);
 console.log("un gioco:", persona.giochi[1]);
-
