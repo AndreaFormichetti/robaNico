@@ -1,0 +1,30 @@
+{
+    "nome": "aatrox",
+    "abilità": [
+        {
+            "nome": "",
+            "danniBase": 0,
+            "apScaling": [
+                0.3,
+                0.35
+            ],
+            "adScaling": [
+                0.3,
+                0.35
+            ],
+            "cooldown": []
+        },
+        {
+
+        },
+        {
+
+        },
+        {
+
+        },
+        {
+
+        }
+    ]
+}

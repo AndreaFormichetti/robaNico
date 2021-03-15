@@ -1,0 +1,17 @@
+database degli eroi:
+    memorizza un nuovo eroe
+        struttura nel filesystem con json che descrivono gli eroi
+    consulta database
+        trova nel filesystem l'oggetto json relativo ai dati che devi consultare
+crea build e calcola le statistiche relative alla build
+    database di oggetti con le stesse funzioni di quello degli eroi
+
+
+dipendenti da lavori precedenti:
+    CLI (command line interface):
+        retrieve eroe
+        crea build
+        calcola statistiche a comando
+
+    interfaccia grafica
+        TBD

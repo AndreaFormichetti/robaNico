@@ -1,0 +1,12 @@
+modello:
+    abilità:
+        array con gli indici che corrispondono a:
+            0 - passiva
+            1 - q
+            2 - w
+            3 - e
+            4 - r
+        scaling e cooldown sono un array con l'indice che indica il livello della spell
+
+accesso:
+    definito da una libreria e accesso tramite identificatore univoco dell'eroe (nome o id)

@@ -1,24 +1,26 @@
-let Aatrox = {
-    "hp": 100,
-    "armatura": 20,
-    "resistenza magica": 40,
-    spells: [
+const contatti = [
+    {
+        nome: "andrea"
+    },
+    {
+        nome: "nico"
+    }
+];
+
+function trova(nome, lista){
+    let found = false;
+    let i = 0;
+    let result;
+    while (!found && i < lista.length)
+    {
+        if (lista[i].nome === nome)
         {
-            tasto: "q",
-        },
-        {
-            tasto: "w"
-        },
-        {
-            tasto: "e"
-        },
-        {
-            tasto: "r"
-        },
-        {
-            tasto: "passiva"
+            found = true;
+            result = lista[i];
         }
-    ]
+        i++;
+    }
+    return found ? result : "nessun contatto trovato";
 }
 
-console.log(Aatrox.spells[0].tasto)
+console.log(trova("andrea", contatti))
